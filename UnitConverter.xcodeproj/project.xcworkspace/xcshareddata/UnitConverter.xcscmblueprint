@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EF9979F71616265F95AF959C2F20758EDFF1180C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EAEBC7D18BD8629B0917F3A31D7454EFDCB0C0C4" : 0,
+    "EF9979F71616265F95AF959C2F20758EDFF1180C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C4C9FF16-E3E6-4C54-A082-FF423F5AEEC4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EAEBC7D18BD8629B0917F3A31D7454EFDCB0C0C4" : "..",
+    "EF9979F71616265F95AF959C2F20758EDFF1180C" : "018-Swift-Currency-Converter"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UnitConverter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UnitConverter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.epam.com:yaru_anisovec\/travel-dashboard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EAEBC7D18BD8629B0917F3A31D7454EFDCB0C0C4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vidaaudrey\/018-Swift-Currency-Converter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EF9979F71616265F95AF959C2F20758EDFF1180C"
+    }
+  ]
+}
